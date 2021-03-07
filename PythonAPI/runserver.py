@@ -1,9 +1,9 @@
 """
-This script runs the A.Py application using a development server.
+This script runs the PythonAPI application using a development server.
 """
 
 from os import environ
-from APy import app
+from PythonAPI import app
 
 if __name__ == '__main__':
     HOST = environ.get('SERVER_HOST', 'localhost')
