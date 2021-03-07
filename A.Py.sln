@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonAPI", "PythonAPI\PythonAPI.pyproj", "{92C9BB69-D5F9-42BE-8A2C-14EAA293CDDC}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Apy", "Apy\Apy.pyproj", "{F61BEE1D-A7EB-4B98-82B5-D7FC0F3E322B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{92C9BB69-D5F9-42BE-8A2C-14EAA293CDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{92C9BB69-D5F9-42BE-8A2C-14EAA293CDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{92C9BB69-D5F9-42BE-8A2C-14EAA293CDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{92C9BB69-D5F9-42BE-8A2C-14EAA293CDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61BEE1D-A7EB-4B98-82B5-D7FC0F3E322B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61BEE1D-A7EB-4B98-82B5-D7FC0F3E322B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61BEE1D-A7EB-4B98-82B5-D7FC0F3E322B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61BEE1D-A7EB-4B98-82B5-D7FC0F3E322B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
